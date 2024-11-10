@@ -40,16 +40,19 @@
 
 ### Реализация программы
 
-```
-main.rb
-transaction.rb
-transaction_parser.rb
-transaction_sorter.rb
-transaction_processor.rb
+[main.rb](https://github.com/izhdanko/test-tasks/blob/main/1/parsing_and_sorting/main.rb)
 
-transactions.txt
-sorted_transactions.txt
-```
+[transaction.rb](https://github.com/izhdanko/test-tasks/blob/main/1/parsing_and_sorting/transaction.rb)
+
+[transaction_parser.rb](https://github.com/izhdanko/test-tasks/blob/main/1/parsing_and_sorting/transaction_parser.rb)
+
+[transaction_sorter.rb](https://github.com/izhdanko/test-tasks/blob/main/1/parsing_and_sorting/transaction_sorter.rb)
+
+[transaction_processor.rb](https://github.com/izhdanko/test-tasks/blob/main/1/parsing_and_sorting/transaction_processor.rb)
+
+[transactions.txt](https://github.com/izhdanko/test-tasks/blob/main/1/parsing_and_sorting/transactions.txt)
+
+[sorted_transactions.txt](https://github.com/izhdanko/test-tasks/blob/main/1/parsing_and_sorting/sorted_transactions.txt)
 
 ## Примечания
 
@@ -118,9 +121,7 @@ sorted_transactions.txt
 
 Тесты для парсинга и сортировки находятся в папке `spec`.
 
-```
-transaction_spec.rb
-```
+[transaction_spec.rb](https://github.com/izhdanko/test-tasks/blob/main/1/parsing_and_sorting/spec/transaction_spec.rb)
 
 ### Запуск тестов
 

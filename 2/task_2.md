@@ -30,9 +30,7 @@
 
 ### Реализация программы
 
-```
-word_break.rb
-```
+[word_break.rb](https://github.com/izhdanko/test-tasks/blob/main/2/word_break/word_break.rb)
 
 Вывод программы:
 
